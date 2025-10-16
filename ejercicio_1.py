@@ -1,2 +1,2 @@
 name = input("¿como te llamas?")
-print(
+print(f' mi nombre es {name}')
